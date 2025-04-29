@@ -38,7 +38,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Powered by <a href="https://github.com/Chiheisen-Union/Chiheisen-Vercel-Index" target="_blank" rel="noopener noreferrer">Chiheisen-Vercel-Index</a>. Made with ❤ by Chiheisen.',
+    'Powered by <a href="https://panda.bearblog.dev/" target="_blank" rel="noopener noreferrer">Bamboos</a>. Made with ❤ by Panda.',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'adnaP',
-      link: 'hhttps://panda.bearblog.dev/',
+      link: 'https://panda.bearblog.dev/',
     },
   ],
 
